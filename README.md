@@ -1,1 +1,1 @@
-Deep learning projects that I created while learning
+Deep learning notebooks that I created while learning
