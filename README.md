@@ -1,1 +1,1 @@
-Deep learning projects that I created
+Deep learning projects that I created while learning
